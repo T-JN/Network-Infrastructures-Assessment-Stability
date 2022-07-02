@@ -1,2 +1,4 @@
 # Network-Infrastructures-Assessment-Stability
-  CSIT 2021 Conference 
+https://csit.am/2021/schedule.php
+Session 3 “Telecommunication and Networking”
+All calculations and source code have been moved to a private repository.
